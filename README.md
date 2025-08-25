@@ -19,6 +19,8 @@ Steps
 - Global login (storing the session in the `auth` folder)
 - Check the sucessful login by browsing to the `profile` page and checking for an error message not displayed
 
+### Profile with dynamic page objects
+- test/ui/specs/profile.with.Dynamic.pom.spec.ts
 
 ## Available configurations
 `playwright.config.ts`: Configuration used when executing the tests with stored authentication (`profile`tests)
