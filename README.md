@@ -22,6 +22,10 @@ Steps
 ### Profile with dynamic page objects
 - test/ui/specs/profile.with.Dynamic.pom.spec.ts
 
+### Books page with fixtures
+- test/ui/specs/books-with-fixture.spec.ts
+
+
 ## Available configurations
 `playwright.config.ts`: Configuration used when executing the tests with stored authentication (`profile`tests)
 

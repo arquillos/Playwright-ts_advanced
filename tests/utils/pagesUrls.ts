@@ -1,4 +1,5 @@
 export default {
     loginPage: '/login',
-    profile: '/profile'
+    profile: '/profile',
+    bookStorePage: '/bookStore',
 }
